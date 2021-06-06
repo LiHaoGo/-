@@ -12,24 +12,24 @@
 
 
 
-![](images\1.png)
+![](https://img-blog.csdnimg.cn/20210606172555196.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1MTY4NTE1,size_16,color_FFFFFF,t_70#pic_center)
 
 #### 选择困难程度：
 
-![2](images\2.png)
+![2](https://img-blog.csdnimg.cn/20210606172607167.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1MTY4NTE1,size_16,color_FFFFFF,t_70#pic_center)
 
 #### 加载页面：
 
-![](images\3.png)
+![](https://img-blog.csdnimg.cn/20210606172613722.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1MTY4NTE1,size_16,color_FFFFFF,t_70#pic_center)
 
 #### 游戏运行页面：
 
-![](images\4.png)
+![](https://img-blog.csdnimg.cn/20210606172620713.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1MTY4NTE1,size_16,color_FFFFFF,t_70#pic_center)
 
 #### 最总得分：
 
-![](images\5.png)
+![](https://img-blog.csdnimg.cn/20210606172627358.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1MTY4NTE1,size_16,color_FFFFFF,t_70#pic_center)
 
 #### 是否重新开始：
 
-![](images\6.png)
+![](https://img-blog.csdnimg.cn/20210606172634201.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI1MTY4NTE1,size_16,color_FFFFFF,t_70#pic_center)
